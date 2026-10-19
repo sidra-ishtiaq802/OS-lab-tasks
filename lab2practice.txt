@@ -1,0 +1,42 @@
+Script started on 2026-10-18 13:49:45+00:00 [TERM="dumb" TTY="/dev/pts/0" COLUMNS="90" LINES="28"]
+ubuntu@ubuntu:~$ mkdir F24-1174 6
+ubuntu@ubuntu:~$ cd F24-1176
+ubuntu@ubuntu:~/F24-1176$ pwd
+/home/ubuntu/F24-1176
+ubuntu@ubuntu:~/F24-1176$ touch sidra.tzt  xt
+ubuntu@ubuntu:~/F24-1176$ echo "Linux is an Operating SYs  sy  ystem.">Sidra, .txt
+ubuntu@ubuntu:~/F24-1176$ echo "The pwd command shows the current directoru y"  > .">>> Sidra.txt
+ubuntu@ubuntu:~/F24-1176$ echo "THE  he ls command shows the current directory.">>D Sidra.txt
+ubuntu@ubuntu:~/F24-1176$ echo "THE cd command shows       changes the directory, .>>    .">>Sidra.txt
+ubuntu@ubuntu:~/F24-1176$ echo "The mkdir command creates an empty file.">>SIDRA.TXT
+ubuntu@ubuntu:~/F24-1176$ C XT  ECHO    echi o "TH he mkdir command creates an empty fil            directory.">>Sidra txt     a.txt
+ubuntu@ubuntu:~/F24-1176$ echo "The touch commnaf d creates an empty file.">>SIdta    ida ra.txt
+ubuntu@ubuntu:~/F24-1176$ echo "TH he cat comman shows file contents.">>Sidra.txt
+ubuntu@ubuntu:~/F24-1176$ echo "The chmod command sh  changes file permissions.>>  ">>Sidra.txt
+ubuntu@ubuntu:~/F24-1176$ ls
+SIDRA.TXT  Sidra.txt  sidra.txt
+ubuntu@ubuntu:~/F24-1176$ cat sidra.txt
+ubuntu@ubuntu:~/F24-1176$ cat Sidra.txt
+Linux is an Operating System.
+The pwd command shows the current director.
+The ls command shows the current directory.
+THE cd command changes the director.
+The mkdir command creates a directory.
+The touch commnad creates an empty file.
+The cat comman shows file contents.
+The chmod command changes file permissions.
+ubuntu@ubuntu:~/F24-1176$ ls -l Sidra.txt
+-rw-rw-r-- 1 ubuntu ubuntu 315 Oct 18 13:57 Sidra.txt
+ubuntu@ubuntu:~/F24-1176$ ls -l Sidra.txt>  >info.txt
+ubuntu@ubuntu:~/F24-1176$ cat info.txt
+-rw-rw-r-- 1 ubuntu ubuntu 315 Oct 18 13:57 Sidra.txt
+ubuntu@ubuntu:~/F24-1176$ ls _l    -l
+total 12
+-rw-rw-r-- 1 ubuntu ubuntu  41 Oct 18 13:53 SIDRA.TXT
+-rw-rw-r-- 1 ubuntu ubuntu 315 Oct 18 13:57 Sidra.txt
+-rw-rw-r-- 1 ubuntu ubuntu  54 Oct 18 13:58 info.txt
+-rw-rw-r-- 1 ubuntu ubuntu   0 Oct 18 13:50 sidra.txt
+ubuntu@ubuntu:~/F24-1176$ exit
+exit
+
+Script done on 2026-10-18 13:59:19+00:00 [COMMAND_EXIT_CODE="0"]
